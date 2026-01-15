@@ -1,7 +1,5 @@
 <br>
 
-# Portafolio Técnico  
-## Ingeniería Civil
 
 Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados con fines académicos, orientados al dibujo técnico, levantamiento arquitectónico y elaboración de planos.
 
