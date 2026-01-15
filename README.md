@@ -1,2 +1,12 @@
-# Portfolio_AlvaradoMyriam
-Portafolio técnico con relevamientos arquitectónicos realizados en AutoCAD. Incluye planos de plantas, cortes y fachadas.
+# Portafolio Técnico – Ingeniería Civil
+
+Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados con fines académicos.
+
+## Proyectos incluidos
+- Relevamiento arquitectónico académico
+- Relevamiento de edificación
+- Relevamiento industrial (caso de estudio anonimizado)
+
+## Software utilizado
+- AutoCAD
+
