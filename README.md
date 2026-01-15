@@ -6,7 +6,6 @@ Este portafolio reúne trabajos de relevamiento arquitectónico desarrollados co
 - Relevamiento arquitectónico académico. Dibujo Técnico y Planos
 [Ver proyecto (PDF)](Relevamiento_Arquitectonico_Comedores_Edificio12.pdf)
 
-
 ## Software utilizado
-- AutoCAD
+- Autodesk AutoCAD
 
