@@ -33,9 +33,7 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 </a>
 </p>
 
-<hr>
-
-<h2>Software utilizado</h2>
+<h3>Software utilizado</h3>
 
 <ul>
   <li>Autodesk AutoCAD</li>
@@ -60,7 +58,7 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 
 <hr>
 
-<h4>Software utilizado</h4>
+<h3>Software utilizado</h3>
 
 <ul>
   <li>Autodesk Revit</li>
