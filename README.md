@@ -2,7 +2,7 @@
 
 <h3>Myriam Alvarado Mora</h3>
 
-<p><em>Ingeniería Civil</em></p>
+<p><em>Estudiante de Pregrado en Ingeniería Civil</em></p>
 
 </div>
 
