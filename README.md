@@ -15,7 +15,7 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 
 <hr>
 
-<h2>Proyecto destacado</h2>
+<h2>Proyectos destacados</h2>
 
 <h3>Relevamiento arquitectónico académico</h3>
 
