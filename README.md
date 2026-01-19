@@ -51,12 +51,12 @@ orientados al dibujo técnico, levantamiento arquitectónico y elaboración de p
 </ul>
 
 <p>
-📂 <a href="PROYECTO_VIVIENDA_UNIFAMILIAR.pdf" target="_blank">
+📂<a href="PROYECTO_VIVIENDA_UNIFAMILIAR.pdf" target="_blank">
+
 <strong>Ver proyecto (PDF)</strong>
 </a>
 </p>
 
-<hr>
 
 <h3>Software utilizado</h3>
 
